@@ -1,4 +1,5 @@
 # Embedding Metabase Question in Laravel 10
+![image](https://github.com/fahmimmaliki/embed-metabase-laravel/assets/49539975/a98d19b2-631a-45c9-af0b-92ba483b2d57)
 
 This guide will help you quickly embed a Metabase question into your Laravel 10 application. Follow these simple steps to get started:
 
