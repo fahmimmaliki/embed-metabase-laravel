@@ -79,6 +79,10 @@ The code responsible for embedding the Metabase question can be found in the fol
 
 3. `metabase.blade.php` - The Blade view file responsible for displaying the embedded Metabase question using an iframe.
 
+## Proof of Concept Document
+
+For a detailed step-by-step guide on how to embed Metabase questions in Laravel using the provided code, please refer to the [Proof of Concept Document](./proof_of_concept.md).
+
 ## Conclusion
 
 Congratulations! You have successfully integrated Metabase with your Laravel 10 application and embedded a specific Metabase question into your project. By following the straightforward steps outlined in this guide, you now have the power to visualize and analyze your data seamlessly within your Laravel application.
